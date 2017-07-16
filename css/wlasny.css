@@ -180,6 +180,61 @@ h4{
 .square h5{
 	font-size: 2rem;
 }
+/*rooms and suites*/
+#rooms{
+	padding-top: 1rem;
+	padding-bottom: 3rem;
+	text-align: center;
+}
+#rooms p{
+  font-size: 17px;
+}
+.rooms_caption{
+	padding-bottom: 1rem;
+}
+
+.nav-pills > li {
+	float: none;
+	padding-left: 1rem;
+	display: inline-block;
+}
+
+
+.nav-pills > li > a{
+  border: 1px solid #c19b76;
+  background-color: white;
+  color: grey;
+  font-family: 'Archivo Narrow', sans-serif;
+  font-size: 2rem;
+}
+
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:focus,
+.nav-pills > li.active > a:hover,
+.nav-pills > li > a:hover{
+	color: black;
+  background-color: white;
+}
+
+.nav-pills {
+	text-align: center;
+	padding-bottom: 3rem;
+}
+
+.rooms_btn a:hover {
+	-webkit-animation: rotateOut .2s;
+	animation: rotateOut .5s;
+}
+
+#rooms .btn-success{
+  background-color: #c19b76;
+  color: white;
+}
+#rooms .new-font{
+  font-size: 5rem;
+}
+
+
 /*gallery*/
 #gallery{
 	padding-bottom: 3rem;
@@ -219,6 +274,7 @@ h4{
 .close{
   font-size: 30px;
 }
+
 /*our guests*/
 #guests{
 
