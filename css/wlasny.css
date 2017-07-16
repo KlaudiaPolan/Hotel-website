@@ -180,6 +180,21 @@ h4{
 .square h5{
 	font-size: 2rem;
 }
+/*restaurant*/
+#restaurant{
+  font-family: 'Archivo Narrow', sans-serif;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-size: 2rem;
+  background-color: #c19b76;
+  color: white;
+}
+#restaurant .new-font{
+  color: white;
+}
+
+
+
 /*rooms and suites*/
 #rooms{
 	padding-top: 1rem;
@@ -316,4 +331,44 @@ h4{
 #partners h2{
 	color: #ffffff;
 	margin-bottom: 3rem;
+}
+
+/*Contact*/
+#contact{
+	padding-top: 5rem;
+	padding-bottom: 5rem;
+	text-align: left;
+  font-family: 'Archivo Narrow', sans-serif;
+  font-size: 2rem;
+}
+#contact .glyphicon{
+  color: #c19b76;
+}
+#contact button:hover {
+	-webkit-animation: wobble .9s;
+	animation: wobble .9s;
+}
+
+
+/* Footer */
+#footer{
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+	text-align: left;
+	background-color: #c19b76;
+	color: white;
+  font-family: 'Archivo Narrow', sans-serif;
+}
+
+#footer h4{
+	color: white;
+}
+
+#footer img{
+	float: right;
+	margin-right: 2rem;
+	width: 4rem;
+}
+footer img:hover{
+  opacity: 0.9;
 }
