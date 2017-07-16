@@ -134,3 +134,26 @@ h4{
   padding: 30px;
   font-size: 2rem;
 }
+/*our guests*/
+#guests{
+
+	padding-top: 1rem;
+	padding-bottom: 3rem;
+	text-align: center;
+}
+#guests p{
+  font-size: 1.6rem;
+
+}
+
+.guests_caption{
+	padding-bottom: 5rem;
+}
+#guests h4{
+  line-height: 0;
+}
+.guests_photo{
+	padding: 0.4rem;
+	margin: 0 auto;
+	width: 26rem;
+}
