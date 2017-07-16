@@ -131,9 +131,33 @@ h4{
 /*about hotel*/
 #about{
   font-family: 'Archivo Narrow', sans-serif;
-  padding: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   font-size: 2rem;
+
 }
+.advantages{
+  width: 100%;
+  margin-top: 2rem;
+  background-color: #c19b76;
+	padding-top: 6rem;
+	padding-bottom: 3rem;
+	text-align: center;
+  color: white;
+}
+.advantages .new-font, h4, h3{
+  color: white;
+}
+.advantages_title{
+	margin-bottom: 5rem;
+}
+.advantages img{
+  width: 20%;
+  margin: 0 auto;
+}
+
+
+
 /*our guests*/
 #guests{
 
