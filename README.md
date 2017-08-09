@@ -1,3 +1,12 @@
 https://klaudiapolan.github.io/Hotel-website/
-My hotel website created with help of HTML5, CSS3, JavaScript, Bootstrap and jQuery.
-It is fully responsive.
+Non-commercial website about the hotel in Greece.
+
+Used languages and technologies:
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>SASS</li>
+  <li>jQuery</li>
+  <li>Bootstrap</li>
+  <li>Responsive Web Design</li>
+</ul>
